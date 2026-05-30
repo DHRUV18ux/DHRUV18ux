@@ -62,12 +62,10 @@ public class Dhruv {
 
 ### 📌 Featured Projects
 
-<div align="center">
-
-[![springboot-tourbooking-system](https://github-readme-stats.vercel.app/api/pin/?username=DHRUV18ux&repo=springboot-tourbooking-system&theme=github_dark&border_color=30363d)](https://github.com/DHRUV18ux/springboot-tourbooking-system)
-[![fintech-banking-api](https://github-readme-stats.vercel.app/api/pin/?username=DHRUV18ux&repo=fintech-banking-api&theme=github_dark&border_color=30363d)](https://github.com/DHRUV18ux/fintech-banking-api)
-
-</div>
+| Project | Description | Tech |
+|--------|-------------|------|
+| [🏖️ springboot-tourbooking-system](https://github.com/DHRUV18ux/springboot-tourbooking-system) | Tour booking backend system with REST APIs | Java · Spring Boot · MySQL |
+| [🏦 fintech-banking-api](https://github.com/DHRUV18ux/fintech-banking-api) | Fintech banking API with secure transactions | Java · Spring Boot · MySQL |
 
 ---
 
@@ -75,11 +73,16 @@ public class Dhruv {
 
 <div align="center">
 
-![Dhruv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DHRUV18ux&show_icons=true&theme=github_dark&border_color=30363d&count_private=true&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DHRUV18ux&layout=compact&theme=github_dark&border_color=30363d)
+![Dhruv's GitHub Stats](https://github-stats-alpha.vercel.app/api?username=DHRUV18ux&cc=0d1117&tc=58A6FF&ic=58A6FF&bc=30363d)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=DHRUV18ux&theme=github-dark-blue&border=30363d&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DHRUV18ux&theme=github_dark)
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DHRUV18ux&theme=github-dark-blue&border=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
 
 </div>
 
